@@ -6,7 +6,7 @@
 
 ### 🚀 About Me  
 - 🎓 **MCA Graduate (2023)** with a strong passion for **Data Science & Analytics**  
-- 💻 Skilled in **Python, SQL, Pandas, NumPy, Scikit-learn**, and **Data Visualization (Power BI / Tableau)**  
+- 💻 Skilled in **Python, SQL, Pandas, NumPy, Scikit-learn**, and **Data Visualization**  
 - 📊 Experienced in building projects like **PhonePe Transaction Insights**, **Brain Tumor Classification**, and **Housing Sales Analysis**  
 - 🌱 Currently learning **Machine Learning**, **Model Deployment**, and **Feature Engineering**  
 - 🤝 Open to collaborating on **data-driven projects** and **analytics research**  
@@ -15,7 +15,7 @@
 
 ### 🧠 Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,mysql,pandas,numpy,vscode,tableau,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,mysql,pandas,numpy,vscode" />
 </p>
 
 ---
