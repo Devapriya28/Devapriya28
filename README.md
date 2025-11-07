@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi there, I'm Devapriya 👋</h1>
 <h3 align="center">Data Science Learner | Machine Learning Enthusiast | Python Developer</h3>
 
