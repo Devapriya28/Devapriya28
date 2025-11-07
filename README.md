@@ -1,45 +1,86 @@
+<!-- Profile Header -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#9b5de5;">Devapriya</span>!</h1>
+<h3 align="center">💡 Data Science Learner | 🧠 Machine Learning Enthusiast | 🐍 Python Developer</h3>
 
-<h1 align="center">Hi there, I'm Devapriya 👋</h1>
-<h3 align="center">Data Science Learner | Machine Learning Enthusiast | Python Developer</h3>
-
----
-
-### 🚀 About Me  
-- 🎓 **MCA Graduate (2023)** with a strong passion for **Data Science & Analytics**  
-- 💻 Skilled in **Python, SQL, Pandas, NumPy, Scikit-learn**, and **Data Visualization**  
-- 📊 Experienced in building projects like **PhonePe Transaction Insights**, **Brain Tumor Classification**, and **Housing Sales Analysis**  
-- 🌱 Currently learning **Machine Learning**, **Model Deployment**, and **Feature Engineering**  
-- 🤝 Open to collaborating on **data-driven projects** and **analytics research**  
-
----
-
-### 🧠 Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,mysql,pandas,numpy,vscode" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9b5de5&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Data+Science+%7C+Machine+Learning+%7C+SQL;Exploring+Insights+from+Data+✨" />
 </p>
 
 ---
 
+### 🚀 About Me  
+- 🎓 **MCA Graduate (2023)** passionate about **Data Science & Analytics**  
+- 💻 Skilled in **Python, SQL, Pandas, NumPy, Scikit-learn**, and **Data Visualization**  
+- 📊 Hands-on experience with projects like  
+  👉 *PhonePe Transaction Insights*, *Brain Tumor Classification*, and *Housing Sales Analysis*  
+- 🌱 Currently exploring **Machine Learning**, **Model Deployment (Streamlit, Flask)**, and **Feature Engineering**  
+- 🤝 Open to collaborating on **data-driven**, **ML-based**, and **open-source** projects  
+- 🎯 **Goal:** To become a data-driven problem solver and contribute to impactful analytics solutions  
+
+---
+
+### 🧠 Skills & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,mysql,pandas,numpy,streamlit,vscode,tableau,powerbi" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-9b5de5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-f15bb5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Deep%20Learning-00bbf9?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SQL-00f5d4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Analytics-ffc300?style=for-the-badge">
+</p>
+
+---
+
+### 🧩 Featured Projects  
+Here are some of my favorite projects 💻  
+
+| Project | Description | Tools Used |
+|----------|--------------|-------------|
+| 🧠 **Brain Tumor Classification** | Classified MRI images using CNN & TensorFlow | Python, Keras, Streamlit |
+| 💳 **PhonePe Transaction Insights** | Visual analytics dashboard for transaction trends | Python, SQL, Power BI |
+| 🏠 **Luxury Housing Sales - Bengaluru** | Price prediction & trend analysis | Pandas, Matplotlib, Power BI |
+
+---
+
 ### 📫 Connect With Me  
+
 <p align="center">
   <a href="mailto:devapriya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/devapriya28"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Devapriya28"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
 
 ### 📈 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devapriya28&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devapriya28&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devapriya28&show_icons=true&theme=radical&hide_border=true" height="160em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devapriya28&theme=radical&hide_border=true" height="160em"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devapriya28&theme=react-dark&hide_border=true&area=true" />
+</p>
 
-<!--
-**Devapriya28/Devapriya28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🏆 Achievements & Highlights
+- 🥇 Built multiple end-to-end **ML & Analytics** projects  
+- 🌟 Active learner of **Data Science**, **AI**, and **Visualization** tools  
+- 📚 Contributing to open-source & improving reproducibility in analytics  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b5de5&height=120&section=footer"/>
+</p>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
