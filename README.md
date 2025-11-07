@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 **ECE Graduate (2025)** with a strong passion for **Data Science & Analytics**  
+- 🎓 **MCA Graduate (2023)** with a strong passion for **Data Science & Analytics**  
 - 💻 Skilled in **Python, SQL, Pandas, NumPy, Scikit-learn**, and **Data Visualization (Power BI / Tableau)**  
 - 📊 Experienced in building projects like **PhonePe Transaction Insights**, **Brain Tumor Classification**, and **Housing Sales Analysis**  
 - 🌱 Currently learning **Machine Learning**, **Model Deployment**, and **Feature Engineering**  
